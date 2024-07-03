@@ -1,3 +1,6 @@
-vendor/* linguist-vendored
-build/* linguist-generated
 *.cpp linguist-language=C++
+*.h linguist-language=C++
+*.dfm linguist-vendored
+*.pas linguist-vendored
+*.fmx linguist-vendored
+*.dproj linguist-vendored
