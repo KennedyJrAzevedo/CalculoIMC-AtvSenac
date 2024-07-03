@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/08/19 19:06:17.000.567,=C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/08/19 19:06:18.000.808,=C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/08/19 19:08:39.000.223,C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\uIMC.h</Transaction>
+    <Transaction>2020/08/19 19:08:39.000.223,C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\uIMC.dfm</Transaction>
+    <Transaction>2020/08/19 19:08:39.000.223,C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\uIMC.cpp</Transaction>
+    <Transaction>2020/08/19 19:09:11.000.244,C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\pIMC.h</Transaction>
+    <Transaction>2020/08/19 19:09:42.000.047,C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\IMC.cbproj</Transaction>
+    <Transaction>2020/08/21 21:20:43.000.826,C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\IMC.cbproj=C:\Users\Cliente\Desktop\UC9\IMC.cbproj</Transaction>
+    <Transaction>2020/08/21 21:24:34.000.708,C:\Users\Cliente\Desktop\UC9\uIMC.dfm=C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\uIMC.dfm</Transaction>
+    <Transaction>2020/08/21 21:24:34.000.708,C:\Users\Cliente\Desktop\UC9\uIMC.cpp=C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\uIMC.cpp</Transaction>
+    <Transaction>2020/08/21 21:24:34.000.708,C:\Users\Cliente\Desktop\UC9\uIMC.h=C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\uIMC.h</Transaction>
+    <Transaction>2020/08/22 12:40:48.000.450,C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\uIMC.h=C:\Users\Cliente\Desktop\UC9\uIMC.h</Transaction>
+    <Transaction>2020/08/22 12:40:48.000.449,C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\uIMC.cpp=C:\Users\Cliente\Desktop\UC9\uIMC.cpp</Transaction>
+    <Transaction>2020/08/22 12:40:48.000.450,C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\uIMC.dfm=C:\Users\Cliente\Desktop\UC9\uIMC.dfm</Transaction>
+    <Transaction>2020/08/22 12:40:59.000.188,C:\Users\Cliente\Documents\Embarcadero\Studio\Projects\IMC.cbproj=C:\Users\Cliente\Desktop\UC9\IMC.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
